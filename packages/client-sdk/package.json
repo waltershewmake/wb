@@ -1,0 +1,19 @@
+{
+	"name": "@nftag/client-sdk",
+	"version": "1.0.2",
+	"private": false,
+	"main": "dist/index.js",
+	"author": "Walter Shewmake",
+	"scope": "@nftag",
+	"license": "MIT",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"dev": "tsc --watch",
+		"build": "tsc"
+	},
+	"dependencies": {
+		"@nftag/tsconfig": "*"
+	}
+}

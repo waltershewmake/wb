@@ -1,0 +1,5 @@
+{
+	"extends": "@nftag/tsconfig/base.json",
+	"include": ["**/*.ts"],
+	"exclude": ["node_modules"]
+}

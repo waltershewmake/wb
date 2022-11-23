@@ -1,0 +1,10 @@
+{
+	"name": "@nftag/tsconfig",
+	"version": "0.0.1",
+	"private": false,
+	"files": [
+		"base.json",
+		"nextjs.json",
+		"react-library.json"
+	]
+}
