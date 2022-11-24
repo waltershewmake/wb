@@ -1,4 +1,4 @@
-import { test } from "@nftag/client-sdk";
+import { test } from "@wb/sdk";
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
 

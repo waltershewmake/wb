@@ -1,5 +1,5 @@
 {
-	"name": "turborepo-react-native-template",
+	"name": "wb",
 	"version": "0.0.0",
 	"private": true,
 	"workspaces": [
@@ -13,7 +13,7 @@
 		"format": "prettier --write \"**/*.{ts,tsx,md}\""
 	},
 	"devDependencies": {
-		"@nftag/eslint-config-custom": "*",
+		"@wb/eslint-config-custom": "*",
 		"prettier": "latest",
 		"turbo": "latest"
 	},

@@ -1,5 +1,5 @@
 {
-	"name": "@nftag/eslint-config-custom",
+	"name": "@wb/eslint-config-custom",
 	"version": "0.0.2",
 	"private": false,
 	"main": "index.js",

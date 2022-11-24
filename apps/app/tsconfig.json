@@ -1,5 +1,5 @@
 {
-  "extends": "@nftag/tsconfig/base.json",
+  "extends": "@wb/tsconfig/base.json",
   "include": ["**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules"]
 }

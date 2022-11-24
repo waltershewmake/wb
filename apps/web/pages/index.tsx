@@ -1,4 +1,4 @@
-import { test } from "@nftag/client-sdk";
+import { test } from "@wb/sdk";
 
 export default function Web() {
 	const message = test();

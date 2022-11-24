@@ -11,13 +11,13 @@
 		"build": "eas build --platform all --non-interactive"
 	},
 	"dependencies": {
-		"@nftag/client-sdk": "*",
+		"@wb/sdk": "*",
 		"@types/react-native": "^0.70.6",
 		"expo": "~46.0.16",
 		"expo-status-bar": "~1.4.0",
 		"react": "18.0.0",
 		"react-native": "0.69.6",
-		"@nftag/tsconfig": "*"
+		"@wb/tsconfig": "*"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.12.9"
